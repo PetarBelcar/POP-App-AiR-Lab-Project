@@ -12,7 +12,7 @@ import org.junit.Test
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-/*class RegisterServiceTest {
+class RegisterServiceTest {
     @Test
     fun testRegistrationRoute() {
         val existingUsername = "cvelasquez"
@@ -39,4 +39,4 @@ import org.junit.Test
             assertTrue(stringResponseBody.contains("Could not register user!"))
         }
     }
-}*/
+}
